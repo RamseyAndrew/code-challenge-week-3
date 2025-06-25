@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "The RTX 4090 is a Beast",
+      "content": "I just got my RTX 4090 and it's amazing! NVIDIA's RTX 4090 is currently the most powerful consumer graphics card on the market. With jaw-dropping performance in 4K gaming and creative workloads, it's a true powerhouse. If you want the best and are willing to pay for it, this GPU is unmatched.",
+      "img": "https://www.pcworld.com/wp-content/uploads/2025/04/geforce-rtx-4090-jensen.jpg?quality=50&strip=all",
+      "author": "Ramsey"
+    },
+    {
+      "id": "2",
+      "title": "Gaming on a Budget",
+      "content": "You don't need to spend a fortune to enjoy gaming.  Or a high-end rig to enjoy modern games. With budget-friendly options like the GTX 1650, AMD RX 6400, or even cloud gaming platforms, it's possible to game smoothly without breaking the bank. Prioritize good value and pair it with a solid CPU and SSD.",
+      "img": "https://hips.hearstapps.com/hmg-prod/images/pop-gaming-pcs-1637005899.jpg",
+      "author": "Ramsey"
+    }
+  ]
+}
